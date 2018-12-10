@@ -238,7 +238,7 @@
       "Ttriple_units": "K", 
       "acentric": 0.1925934521621, 
       "acentric_units": "-", 
-      "dipole_moment": 5.001e-01,  
+      "dipole_moment": 5.0e-01,  
       "dipole_moment_units": "Debye",  
       "dipole_moment_ref": "\"The Properties of Gases and Liquids\" 5th edition, Poling, Prausnitz, and O'Connell.",
       "alpha0": [
